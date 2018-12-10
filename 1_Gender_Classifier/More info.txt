@@ -1,0 +1,2 @@
+Dependencies: scikit learn
+--To install it using pip type this on the command line: pip install -U scikit-learn 
